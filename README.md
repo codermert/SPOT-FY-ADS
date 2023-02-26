@@ -1,8 +1,8 @@
 ## KURULUM
 
 ```bash
-  $ git clone https://github.com/saminnet/spotify-adblock-script.git
-  $ cd spotify-adblock-script
+  $ git clone https://github.com/codermert/SPOTIFY-ADS
+  $ cd SPOTIFY-ADS
   $ sudo chmod u+x adblock.sh
   $ sudo ./adblock.sh
 ```
